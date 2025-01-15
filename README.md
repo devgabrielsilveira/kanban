@@ -1,8 +1,6 @@
 # Kanban
 
-<div>
-  <img src=".img-preview/preview-full-screen.png>
-</div>
+  <img src="./img-preview/preview-full-screen.png" alt="Visualização em tela cheia">
 
 **Kanban** é um projeto simples e responsivo que simula um quadro de tarefas no estilo Kanban. O objetivo principal deste projeto é praticar JavaScript, criando um sistema interativo onde é possível arrastar e soltar tarefas entre diferentes colunas. 
 
