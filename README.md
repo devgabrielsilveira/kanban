@@ -57,7 +57,7 @@
 
 Em caso de dúvidas ou sugestões, entre em contato:
 
-- **Email**: devgabriel@gmail.com
+- **Email**: devgabrielsilveira@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/gabriel-silveira-67979b18a/
 
-
+Desenvolvido por Gabriel Silveira 🚀
