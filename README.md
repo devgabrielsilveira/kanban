@@ -1,4 +1,6 @@
-# Kanban
+<div align="center">
+  <h1>Kanban</h1>
+</div>
 
   <img src="./img-preview/preview-full-screen.png" alt="Visualização em tela cheia">
 
